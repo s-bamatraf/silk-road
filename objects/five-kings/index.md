@@ -1,6 +1,6 @@
 ---
 author: student name
-title: "Qusayr ‘Amra and the Painting of the Six Kings"
+title: "Qasr ‘Amra and the Painting of the Six Kings"
 layout: base
 header-image: images/five-kings.jpg
 thumbnail: images/five-kings.jpg
@@ -11,7 +11,7 @@ tags:
   - object
 ---
 
-# Qusayr ‘Amra and the Painting of the Six Kings
+# Qasr ‘Amra and the Painting of the Six Kings
 
 This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
 
