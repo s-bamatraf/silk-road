@@ -13,7 +13,7 @@ tags:
 
 # Qasr ‘Amra and the Painting of the Six Kings
 
-This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
+Qasr 'Amra is located in Jordan and is one of the "desert palaces" that the Umayyads built. This specific qasr is was built for Walid II. It is a continuation of Roman building traditions. This is seen in the artwork style which is similar to bathhouse artwork. The image was meant to push forward ideas of controll and power. This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
 
 The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
 
