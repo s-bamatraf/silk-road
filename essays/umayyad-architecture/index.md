@@ -12,7 +12,7 @@ summary: Umayyad architecture is a reflection of their early ruling systems.
 Umayyad architecture is very heavily influenced by the preexisting traditions in the areas they expanded to. The two main influences come from Byzantine and Sassanian empires. Small changes, however, are introduced and this is what serves as a reflection of their early ruling practices.
 
 
-**What makes this a "Forest" essay?** It includes every component Xanthan offers: all the basics (headings, images, footnotes), Sapling features (scrollyboxes, carousels), plus advanced techniques for complex visual narratives. Use this when you want maximum storytelling power.
+Largely, when the Umayyads expanded into a new area they kept the ruling structure the same and just replaced the top officials. This meant that the majority of the population of their newly conqured areas didn't feel much of a change in the earlier years. Eventually, the Umayyads made changes from the top down but for the first couple of years everything functioned similarly. This is where the similarities with the architecture are seen. 
 
 The text below explains each advanced feature as you encounter it, mixed with some filler to show pacing.
 
