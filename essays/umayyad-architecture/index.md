@@ -40,9 +40,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh v
 Below you'll see a **juxtapose component**—an interactive slider that lets readers compare two images by dragging a handle left and right. Perfect for before/after, then/now, or any two related images.
 
 {% include images/juxtapose.html
-image1="images/ota-gate-demo-brown.png"
-image2="images/ota-gate-demo-gray.png"
-caption="Two shades of color on the Ota Gate."
+image1="images/taq-i-kasra.jpg"
+image2="images/mshatta-midain.jpg"
+caption="Evidence of Sassanian influences."
 %}
 
 **Why use juxtapose?** When you want readers to actively explore the relationship between two images. The interactive slider invites engagement—readers control what they see and how much of each image.
