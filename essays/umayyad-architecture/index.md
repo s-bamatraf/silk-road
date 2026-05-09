@@ -1,73 +1,153 @@
 ---
-author: Safa Bamatraf
-title: "Umayyad Architecture and its Inspirations"
+author: safa bamatraf
+title: "Inspirations of Umayyad Architecture"
 layout: base
 header-image: images/ota-gate-khiva2.jpg
-thumbnail: images/ota-gate-demo-green.png
-summary: Umayyad architecture is a reflection of their early ruling styles.
+thumbnail: images/ota-gate-demo-brown.png
+summary: Umayyad architecture is a reflection of their early ruling systems.
 ---
 
-# Umayyad Architecture: an evolution of past traditions
+# Umayyad Architecture: an Evolution of Past Traditions
 
-Umayyad architecture is very heavily influenced by the preexisting traditions in the areas they expanded to. The two main influences come from Byzantine and Sassanian empires. Small changes, however, are introduced and this is what serves as a reflection of their early ruling practices. 
-
-**What makes this a "Sapling" essay?** It includes everything from Seedling (headings, images, footnotes, pull quotes) plus immersive components: text overlaying background images, image carousels for comparisons, and more dynamic pacing. This is where ScrollStories start feeling cinematic.
-
-The text below includes both explanations and filler content to show how these components work in practice.
+Umayyad architecture is very heavily influenced by the preexisting traditions in the areas they expanded to. The two main influences come from Byzantine and Sassanian empires. Small changes, however, are introduced and this is what serves as a reflection of their early ruling practices.
 
 
-## Building on Seedling Basics
+**What makes this a "Forest" essay?** It includes every component Xanthan offers: all the basics (headings, images, footnotes), Sapling features (scrollyboxes, carousels), plus advanced techniques for complex visual narratives. Use this when you want maximum storytelling power.
+
+The text below explains each advanced feature as you encounter it, mixed with some filler to show pacing.
+
+
+## All the Basics Still Work
 {% include images/figure.html
 class="right"
 width="48%"
-caption="Right-aligned images still work exactly like Seedling. You already know this pattern. [Source](https://commons.wikimedia.org/wiki/File:Khiva_town_of_The_Silk_Road_(%D0%9A%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D0%BD,_%D0%98%D1%87%D0%B0%D0%BD_%D0%9A%D0%B0%D0%BB%D0%B0,_%D0%A5%D0%B8%D0%B2%D0%B0).jpg)"
+caption="Right-aligned images work exactly like Seedling and Sapling. Every skill you've learned carries forward. [Source](https://commons.wikimedia.org/wiki/File:Khiva_town_of_The_Silk_Road_(%D0%9A%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D0%BD,_%D0%98%D1%87%D0%B0%D0%BD_%D0%9A%D0%B0%D0%BB%D0%B0,_%D0%A5%D0%B8%D0%B2%D0%B0).jpg)"
 image-path="images/ota-gate-khiva2.jpg"
 %}
 
-Everything from Seedling still works here: images with captions, footnotes, section headings.[^note1] The Sapling template doesn't replace what you learned—it **adds** to it.
+Forest doesn't replace Seedling or Sapling—it **includes** them. You can mix simple images, footnotes, and section headings[^note1] with the advanced features we're about to show you.
 
-[^note1]:Footnotes continue to work exactly as before. All your Seedling skills carry forward.
+[^note1]: Footnotes work in Forest essays exactly as they do everywhere else.
 
-This layered approach is intentional. Master the basics, then add complexity incrementally. You're not learning a whole new system; you're expanding your toolkit with a few powerful new components.[^randomthing]
+The key to Forest essays is knowing when to use which tool. Not every moment needs a cinematic treatment. Sometimes a simple image alongside text is exactly right.
 
-[^randomthing]:Put your source information here.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis.[^note2]
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
+[^note2]: You can use footnotes throughout Forest essays for citations and elaboration.
 
 
-## Your First Scrollybox
-Here's what makes Sapling different: keep scrolling and watch what happens next. You're about to see text appear **over** a background image, creating an immersive reading experience.
+## Juxtapose: Before/After Comparisons
+Below you'll see a **juxtapose component**—an interactive slider that lets readers compare two images by dragging a handle left and right. Perfect for before/after, then/now, or any two related images.
+
+{% include images/juxtapose.html
+image1="images/ota-gate-demo-brown.png"
+image2="images/ota-gate-demo-gray.png"
+caption="Two shades of color on the Ota Gate."
+%}
+
+**Why use juxtapose?** When you want readers to actively explore the relationship between two images. The interactive slider invites engagement—readers control what they see and how much of each image.
+
+**Use cases:**
+- Historical photos showing change over time
+- Different views of the same location
+- Comparing historical documents or maps
+- Revealing differences that might be subtle
+
+Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum.
+
+
+## Standard Scrollybox (From Sapling)
+The next section uses a basic scrollybox like you saw in Sapling. Keep scrolling to see text overlay a full-screen background image.
 
 {% include scrollybox/bg.html
+  height="220vh"
+  position="top"
   image-path="images/ota-gate-khiva2.jpg"
   above-box-space = "100vh"
-  below-box-space = "80vh"
   box-content=' A sculpture in Khiva offers a romaticized view of the Silk Road trade network.'
 %}
 
 
-## What Just Happened?
-That was a **scrollybox**—text that appears in a box over a full-screen background image. As you scrolled, the background image stayed fixed while the text box scrolled into view, stayed visible, then scrolled away.
-
-**Why use scrollyboxes?** They create moments of focus and drama. The full-screen image immerses readers in a visual context, while the overlay text provides commentary, quotations, or key points. It's like a visual pause in your narrative.
-
-**Technical note:** The `above-box-space` and `below-box-space` parameters control how much blank scroll space appears before and after the text box. Adjust these to control pacing—more space = slower, more contemplative; less space = faster pacing.
-
-
-## Pull Quotes Still Work
+## Pull Quotes for Emphasis
 {% include typography/aside.html class="left" text="
-This left-aligned pull quote is the same component you learned in Seedling. Sapling essays can mix scrollyboxes with traditional pull quotes depending on what fits your narrative." %}
+Pull quotes still work in Forest essays. Mix them with scrollyboxes depending on what your narrative needs at any given moment." %}
 
-Notice how this pull quote appears alongside regular text, while the scrollybox took over the entire screen. Different tools for different purposes:
+Notice how you can shift between immersive full-screen scrollyboxes and traditional pull quotes within the same essay. **Choose the right tool for the moment:**
 
-- **Pull quotes** emphasize key text within ongoing paragraphs
-- **Scrollyboxes** create immersive moments that break away from normal flow
+- Scrollyboxes for dramatic visual immersion
+- Pull quotes for emphasis within ongoing text
+- Standard images for supporting illustrations
+- Juxtapose for interactive comparisons
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl. Praesent sed vehicula velit, vel hendrerit neque.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
 
 
-## Image Carousels for Comparisons
-Below you'll see an **image carousel**—multiple images you can click through. This is perfect when you want readers to compare several images without cluttering the page.
+## Background Switching: The Advanced Feature
+This is what makes Forest essays truly cinematic. You're about to scroll through a section where the background image **switches** as you read, creating a visual sequence that matches your narrative.
+
+**Watch carefully:** The background will start with one image, then switch to another partway through. The text box stays visible throughout, but the background changes to match what you're reading about.
+
+<!-- this is an unclosed div that needs to be closed with bg-multi-long-close-->
+{% include scrollybox/bg-multi-long.html
+  bg-id="bg1"
+  image-path="images/ota-gate-khiva2.jpg"
+  above-box-space="0"
+  font-size = "150%"
+  line-height = "100%"
+%}
+
+Now we have a text box scrolling up over the first image. At various points (clearly labeled below) **the background image will switch** while the text continues scrolling.
+
+This is perfect for visual sequences: walking through a building room by room, showing historical change over time, or revealing evidence step by step.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec ante ligula. Nulla fringilla ligula sit amet nisl consectetur ultricies. Mauris ac tellus eu ante lobortis rhoncus non eu nisl.
+
+
+### BACKGROUND IMAGE SWITCHES HERE
+
+{% include scrollybox/bg-switch.html
+  image-path="images/ota-gate-demo-brown.png"
+  switch-id="switch1"
+  bg-id="bg1"
+%}
+
+
+### The New Background
+Did you notice the background change? The image switched to the brown tint. Your text continued scrolling, but the visual context shifted.
+
+**Why use background switching?**
+- Narrative sequences (first this happened, then that)
+- Spatial movement (from room to room, place to place)
+- Evidence building (showing multiple sources for one argument)
+- Visual comparisons while maintaining narrative flow
+
+Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc.
+
+
+#### The End of This Sequence
+Watch as the text box scrolls out of view, followed by the background image fading away. Then normal scrolling resumes.
+
+{% include scrollybox/bg-multi-long-close.html %}
+
+
+## Back to Normal Flow
+Notice how smoothly you transitioned from that immersive multi-image sequence back to regular essay format? That's the power of mixing components.
+
+{% include images/figure.html class="right" width="60%" caption="After an immersive scrollybox sequence, a standard right-aligned image feels grounding and gives readers a break. [Source](https://commons.wikimedia.org/wiki/File:Khiva_town_of_The_Silk_Road_(%D0%9A%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D0%BD,_%D0%98%D1%87%D0%B0%D0%BD_%D0%9A%D0%B0%D0%BB%D0%B0,_%D0%A5%D0%B8%D0%B2%D0%B0).jpg)"
+image-path="images/ota-gate-khiva2.jpg" %}
+
+**Pacing matters in Forest essays.** If everything is cinematic and immersive, nothing stands out. Use advanced features strategically:
+
+- Build to moments of visual intensity
+- Give readers breaks with standard images and text
+- Save background switching for key narrative turns
+- Use juxtapose when comparison is the point
+
+Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc.
+
+
+## Image Carousels (From Sapling)
+All Sapling components work in Forest too. Here's a carousel for comparing multiple images:
 
 {% assign images =
 "images/ota-gate-demo-brown.png,
@@ -76,21 +156,10 @@ images/ota-gate-demo-green.png" | split: ','
 %}
 
 {% include images/carousel.html
-id="first"
-images=images
+images = images
 %}
 
-**Why use carousels?** When you have 3-5 related images (historical documents, different views of a building, a sequence of photos), a carousel lets readers compare them side-by-side without scrolling past each one. Click the arrows or dots to move between images.
-
-**Accessibility note:** Always include captions and source links so screen readers and citations work properly.
-
-
-## Larger Images
-{% include images/figure.html class="right" width="60%" caption="This image is 60% width instead of 48%, giving it more visual weight. Adjust widths based on what the image needs. [Source](https://commons.wikimedia.org/wiki/File:Khiva_town_of_The_Silk_Road_(%D0%9A%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D0%BD,_%D0%98%D1%87%D0%B0%D0%BD_%D0%9A%D0%B0%D0%BB%D0%B0,_%D0%A5%D0%B8%D0%B2%D0%B0).jpg)" image-path="images/ota-gate-khiva2.jpg" %}
-
-Just like in Seedling, you control image sizes with the `width` parameter. A floorplan or map might need 60-70% width to be legible, while a portrait might look better at 40%.
-
-Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc.
+Carousels work well after intense scrollybox sequences. They're interactive but less immersive than full-screen backgrounds, giving readers some control while maintaining visual interest.
 
 
 ## Block Quotes for Primary Sources
@@ -98,27 +167,36 @@ Architectural features of the Ota Darvaza reflect much of the culture of the Sil
 
 > As I entered the Ota Darvaza, the splendor of the gateway overwhelmed me. [Source](https://en.wikipedia.org/wiki/Ota_Darvaza)
 
-Block quotes span the full text width and are perfect for extended quotations from archival sources, documents, or scholarly works. They're visually distinct from the scrollybox overlays and pull quotes.
+Block quotes continue to work for extended quotations from primary sources. They're visually distinct from scrollybox overlays and provide a rhythm change in your essay.
 
+## What You've Learned in Forest
+If you can create a Forest essay, you have mastered:
 
-## What You've Learned in Sapling
-If you can create a Sapling essay, you can:
+- **All Seedling components** - Images, headings, footnotes, pull quotes, block quotes
+- **All Sapling components** - Basic scrollyboxes, carousels, pacing control
+- **Advanced Forest features**:
+  - Juxtapose interactive comparisons
+  - Background image switching on scroll
+  - Multi-section scrollybox sequences
+  - Complex cinematic narratives
 
-- **Use scrollyboxes** to overlay text on full-screen background images
-- **Control pacing** with scroll space parameters
-- **Add image carousels** for comparing multiple related images
-- **Mix components** - scrollyboxes, pull quotes, carousels, and standard images in one essay
-- **Create immersive narratives** that feel more like multimedia stories than traditional web pages
+**This is the full Xanthan toolkit.** Not every essay needs every feature, but you now have complete control over how to tell visual stories on the web.
 
-**This is enough for most sophisticated digital humanities projects.** The Forest essay adds background switching and side-scrolling for even more cinematic effects, but Sapling gives you all the tools for compelling visual scholarship.
+**When to use Forest vs. Sapling vs. Seedling?**
+- **Seedling** for straightforward digital essays with images and structure
+- **Sapling** when you want immersive scrollyboxes and carousels
+- **Forest** when your narrative demands cinematic sequences and background switching
 
-**What makes Sapling different from Seedling?**
-- Background scrollyboxes for immersive text overlays
-- Image carousels for comparing multiple images
-- More sophisticated visual storytelling
-- All Seedling components still work
+**Pro tip:** Start simple and add complexity only where it serves your argument. The best essays use advanced features sparingly, for maximum impact.
 
-Ready for even more? Check out the [Forest template](../multilingualism-example-theme/) for advanced features like background switching and side-scrolling.
+**What makes Forest the most advanced template?**
+- Juxtapose interactive image comparisons (before/after, then/now)
+- Background image switching on scroll for dramatic visual transitions
+- Multi-section scrollyboxes with narrative sequences
+- Full cinematic storytelling capabilities
+- Everything from Seedling and Sapling, plus these advanced features
+
+**Feeling overwhelmed?** Start with [Seedling](../camels-example-theme/) or [Sapling](../monasteries-example-theme/) and work your way up. You can always add complexity later once you're comfortable with the basics. Most excellent digital essays use Seedling or Sapling—Forest is for when you truly need cinematic power.
 
 ---
 
