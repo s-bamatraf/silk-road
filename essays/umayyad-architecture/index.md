@@ -42,7 +42,7 @@ Below you'll see a **juxtapose component**—an interactive slider that lets rea
 {% include images/juxtapose.html
 image1="images/taq-i-kasra.jpg"
 image2="images/mshatta-midain.jpg"
-caption="Evidence of Sassanian influences."
+caption="Evidence of Sassanian influences at Qasr Mshatta."
 %}
 
 **Why use juxtapose?** When you want readers to actively explore the relationship between two images. The interactive slider invites engagement—readers control what they see and how much of each image.
@@ -62,7 +62,7 @@ The next section uses a basic scrollybox like you saw in Sapling. Keep scrolling
 {% include scrollybox/bg.html
   height="220vh"
   position="top"
-  image-path="images/ota-gate-khiva2.jpg"
+  image-path="images/khirbet-tree-of-life-mosaic.jpg"
   above-box-space = "100vh"
   box-content=' A sculpture in Khiva offers a romaticized view of the Silk Road trade network.'
 %}
