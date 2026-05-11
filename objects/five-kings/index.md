@@ -4,7 +4,7 @@ title: "Qasr ‘Amra and the Painting of the Six Kings"
 layout: base
 header-image: images/five-kings.jpg
 thumbnail: images/five-kings.jpg
-summary: This image is of the Han coin, not an altarpiece from a monastery.
+summary: Depicting the Umayyad Caliph hosting past famous rulers from the lands that were now under the Caliph's rule was a way to present the power of the Umayyads.
 geo: [47.199, 102.834]
 placename: Karakorum
 tags:

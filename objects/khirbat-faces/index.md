@@ -4,7 +4,7 @@ title: "Khirbat al-Mafjar Faces"
 layout: base
 header-image: images/khirbat-faces.jpg
 thumbnail: images/khirbat-faces.jpg
-summary: This image is of the Han coin, not an altarpiece from a monastery.
+summary: These are protruding faces in the Byzantine style in a Umayyad palace in Jordan.
 geo: [47.199, 102.834]
 placename: Karakorum
 tags:

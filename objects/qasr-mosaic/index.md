@@ -4,7 +4,7 @@ title: "Qasr al-Hayr al-Gharbi Mosaic"
 layout: base
 header-image: images/qasr-mosaic.jpg
 thumbnail: images/qasr-mosaic.jpg
-summary: This image is of the Han coin, not an altarpiece from a monastery.
+summary: The mosaic shows a combination of Byzantine and Sasanian styles. The moasaic also represents characteristic that the Umayyad Caliphs valued. 
 geo: [47.199, 102.834]
 placename: Karakorum
 tags:

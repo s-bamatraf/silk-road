@@ -4,7 +4,7 @@ title: "Qasr al-Mshatta Facade"
 layout: base
 header-image: images/mshatta-facade.jpg
 thumbnail: images/mshatta-facade.jpg
-summary: This image is of the Han coin, not an altarpiece from a monastery.
+summary: From a palace in Amman, the artwork shows a combination of Byzantine and Umayyad traditions. 
 geo: [47.199, 102.834]
 placename: Karakorum
 tags:
