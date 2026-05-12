@@ -63,7 +63,7 @@ The next section uses a basic scrollybox like you saw in Sapling. Keep scrolling
 {% include scrollybox/bg.html
   height="220vh"
   position="top"
-  image-path="images/khirbet-tree-of-life-mosaic-copy.jpg"
+  image-path="images/khirbet-tree-of-life-mosaic-copy.jpeg"
   above-box-space = "100vh"
   box-content=' A sculpture in Khiva offers a romaticized view of the Silk Road trade network.'
 %}
