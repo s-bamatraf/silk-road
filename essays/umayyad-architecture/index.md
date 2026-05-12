@@ -14,6 +14,7 @@ Umayyad architecture is very heavily influenced by the preexisting traditions of
 
 
 Largely, when the Umayyads expanded into a new area they kept the ruling structure the same and just replaced the top officials. This meant that the majority of the population of their newly conquered areas didn't feel much of a change in the earlier years. Eventually, the Umayyads made changes from the top down but for the first couple of years everything functioned similarly. This is where the similarities with the architecture are seen.[^Taragan1]
+The [weight belt](https://amaranth.unm.edu/silk-road//objects/wrestlers-weight/) shows the type of naturalistic artwork popular to the Byzantines. 
 
 [^Taragan1]: Put your source information here *italicize*.[British Musdeum](http://british) 
 
