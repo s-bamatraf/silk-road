@@ -35,7 +35,7 @@ This artwork, again, is an instance of self-aggrandizing found in Umayyad palace
 
 [^Urban1]: Elizabeth Urban, "Race, gender and slavery in early Islamicate history," *History Compass*, 20(5) (April 2022): 2.1.https://doi.org/10.1111/hic3.12727Digital.  
 
-[^Thompson2]: Jason Thompson, "Chapter 12. The Mamluks," in *A History of Egypt : From Earliest Times to the Present,* Third revised edition, (Updated paperback edition. Cairo: The American University in Cairo Press)
+[^Urban2]: Jason Thompson, "Chapter 12. The Mamluks," in *A History of Egypt : From Earliest Times to the Present,* Third revised edition, (Updated paperback edition. Cairo: The American University in Cairo Press)
 ---
 
 ## Bibliography
