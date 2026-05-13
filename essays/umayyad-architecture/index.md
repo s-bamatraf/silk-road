@@ -82,13 +82,26 @@ The first image is a Byzantine floor from a church in West Bank, Palestine. The 
 The two works are close to each other geographically and in resembalance but shapes and angles have shifted.
 
 
+### BACKGROUND IMAGE SWITCHES HERE
+
 {% include scrollybox/bg-switch.html
   image-path="images/mafjar-floor.jpg"
   switch-id="switch1"
   bg-id="bg1"
 %}
 
-Spend time looking at the differences and similarities. 
+
+### The New Background
+Did you notice the background change? The image switched to the brown tint. Your text continued scrolling, but the visual context shifted.
+
+**Why use background switching?**
+- Narrative sequences (first this happened, then that)
+- Spatial movement (from room to room, place to place)
+- Evidence building (showing multiple sources for one argument)
+- Visual comparisons while maintaining narrative flow
+
+Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc.
+
 
 #### The End of This Sequence
 Watch as the text box scrolls out of view, followed by the background image fading away. Then normal scrolling resumes.
