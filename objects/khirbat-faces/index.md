@@ -1,6 +1,6 @@
 ---
 author: safa bamatraf
-title: "Khirbat al-Mafjar Faces" 31.8821971495014, 35.459894835930555
+title: "Khirbat al-Mafjar Faces" 
 layout: base
 header-image: images/khirbat-faces.jpg
 thumbnail: images/khirbat-faces.jpg
