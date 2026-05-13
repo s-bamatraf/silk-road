@@ -113,36 +113,6 @@ Watch as the text box scrolls out of view, followed by the background image fadi
 {% include scrollybox/bg-multi-long-close.html %}
 
 
-## Back to Normal Flow
-Notice how smoothly you transitioned from that immersive multi-image sequence back to regular essay format? That's the power of mixing components.
-
-{% include images/figure.html class="right" width="60%" caption="After an immersive scrollybox sequence, a standard right-aligned image feels grounding and gives readers a break. [Source](https://commons.wikimedia.org/wiki/File:Khiva_town_of_The_Silk_Road_(%D0%9A%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D0%BD,_%D0%98%D1%87%D0%B0%D0%BD_%D0%9A%D0%B0%D0%BB%D0%B0,_%D0%A5%D0%B8%D0%B2%D0%B0).jpg)"
-image-path="images/ota-gate-khiva2.jpg" %}
-
-**Pacing matters in Forest essays.** If everything is cinematic and immersive, nothing stands out. Use advanced features strategically:
-
-- Build to moments of visual intensity
-- Give readers breaks with standard images and text
-- Save background switching for key narrative turns
-- Use juxtapose when comparison is the point
-
-Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc.
-
-
-## Image Carousels (From Sapling)
-All Sapling components work in Forest too. Here's a carousel for comparing multiple images:
-
-{% assign images =
-"images/ota-gate-demo-brown.png,
-images/ota-gate-demo-gray.png,
-images/ota-gate-demo-green.png" | split: ','
-%}
-
-{% include images/carousel.html
-images = images
-%}
-
-Carousels work well after intense scrollybox sequences. They're interactive but less immersive than full-screen backgrounds, giving readers some control while maintaining visual interest.
 
 
 
