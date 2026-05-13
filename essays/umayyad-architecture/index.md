@@ -11,9 +11,13 @@ summary: Umayyad architecture is a relfection of their early ruling methods.
 
 Umayyad architecture is very heavily influenced by the preexisting traditions of the areas they expanded into. The two main influences come from the Byzantine and Sasanian empires. Small changes, however, are introduced and this is what serves as a reflection of their early ruling practices.
 
-Largely, when the Umayyads expanded into a new area they kept the ruling structure the same and only replaced the top officials. This meant that the majority of the population of their newly conquered areas didn't feel much of a change in the earlier years. Eventually, the Umayyads made changes from the top-down but for the first couple of years everything functioned similarly. When changes were made, they were done by making the language of the government, like their written documents, etc, in Arabic. Gradually, this change in language caused the government officials to either learn Arabic or be left behind as their surroundings continued to evolve around them. 
+Largely, when the Umayyads expanded into a new area they kept the ruling structure the same and only replaced the top officials. This meant that the majority of the population of their newly conquered areas didn't feel much of a change in the earlier years.[^sharmuta] Eventually, the Umayyads made changes from the top-down but for the first couple of years everything functioned similarly. When changes were made, they were done by making the language of the government, like their written documents, etc, in Arabic. Gradually, this change in language caused the government officials to either learn Arabic or be left behind as their surroundings continued to evolve around them. 
 
-There have been different arguments posed for why they chose this method of transition. Some argue that the early Umayyad Caliphs chose this method due to the learning curve that came from transitioning from tribal pastoralists to the rulers of vast lands with massive cities. Others have argued that this was the method that allowed for them to focus on expanding as far as possible without being held back by administrative changes.
+[^sharmuta]: Petra Sijpesteijn, “Chapter 11. New Rule over Old Structures: Egypt after the Muslim Conquest,” in *Regime Change in the Ancient Near East and Egypt From Sargon of Agade to Saddam Hussein*, (Oxford University Press, 2007), 183.
+
+There have been different arguments posed for why they chose this method of transition. Some argue that the early Umayyad Caliphs chose this method due to the learning curve that came from transitioning from tribal pastoralists to the rulers of vast lands with massive cities. Others have argued that this was the method that allowed for them to focus on expanding as far as possible without being held back by administrative changes.[^dick]
+
+[^dick]: Nasser Rabbat, "Umayyad Architecture: A Spectacular Intra-Cultural Synthesis in Bilad al-Sham," in *Residences, Castles, Settlements: Transformation Processes from Late Antiquity to Early Islam in Bilad al-Sham* ed. Karin Bartl and Abd al-Razzaq Moaz (Rahden/Westfalen: Verlag Marie Leidorf GmbH, 2009),14.
 
 The Caliphs of the Umayyads ruled from Damascus and when a new region was brought into the fold, they would dispatch a governor chosen by the Caliph. This chosen governor was the new head of the conquered area. He could then decide who to appoint to other high government positions. These appointments were, again, all done under the pre-provided structure in place from the previous ruling power.
 
@@ -62,5 +66,5 @@ The novel additions made by the Umayyads is the inclusion of jewels to otherwise
 
 ## Bibliography
 
-- Lastname, Firstname. “Title of the Article.” *Title of the Journal* 9, no. 9 (1999): 999–999.
-- Lastname, Firstname. *Title of the Book*. Publisher Press, 1999.
+- Rabbat, Nasser. *Residences, Castles, Settlements: Transformation Processes from Late Antiquity to Early Islam in Bilad al-Sham.* Edited by Karin Bartl and Abd al-Razzaq Moaz. Rahden/Westfalen: Verlag Marie Leidorf GmbH, 2009.
+- Sijpesteijn, Petra. *Regime Change in the Ancient Near East and Egypt From Sargon of Agade to Saddam Hussein*. Oxford University Press, 2007.
