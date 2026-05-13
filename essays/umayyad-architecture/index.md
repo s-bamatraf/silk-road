@@ -18,25 +18,25 @@ There have been different arguments posed for why they chose this method of tran
 The Caliphs of the Umayyads ruled from Damascus and when a new region was brought into the fold, they would dispatch a governor chosen by the Caliph. This chosen governor was the new head of the conquered area. He could then decide who to appoint to other high government positions. These appointments were, again, all done under the pre-provided structure in place from the previous ruling power.
 
 
-## Building on Seedling Basics
+## Why An Absorption Occured
 {% include images/figure.html
 class="right"
 width="48%"
-caption="Right-aligned images still work exactly like Seedling. You already know this pattern. [Source](https://commons.wikimedia.org/wiki/File:Khiva_town_of_The_Silk_Road_(%D0%9A%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D0%BD,_%D0%98%D1%87%D0%B0%D0%BD_%D0%9A%D0%B0%D0%BB%D0%B0,_%D0%A5%D0%B8%D0%B2%D0%B0).jpg)"
-image-path="images/ota-gate-khiva2.jpg"
+caption="Artwork from the Great Mosque of Damascus. [Source](https://smarthistory.org/wp-content/uploads/2019/05/mosaic2.jpg)"
+image-path="images/great-mosque.jpg"
 %}
 
 The architectural manifestations of this ruling approach took a number of forms and even showcased the melding of cultures that was taking place. With the Umayyad Caliphate expanding and absorbing, it makes sense that an amalgamation of the cultures takes place. This is why in regions that the Sasanians never touched, their signifying marks are found in Umayyad architecture. One of the most prevalent manifestations of Sasanian influence is the stepped crenelations. These were placed along the tops of walls and became a staple in Islamic architecture even after the Umayyad Caliphate had come to an end.
 
 
 
-## Juxtapose: Before/After Comparisons
+## Sasanian Influences
 Kisra, or Khosrow I, was another major influence provided by the Sasanians. Prophet Mohammad was cited as praising the king for being a just ruler and his palace, Taq-i Kisra, has its echoes in Umayyad buildings. From Taq-i Kisra Umayyads got squinches, Khosrow I’s crown, arabesques, and iwans. A squinch is a dome placed upon a square or octagonal base which provides support. The crown is represented all throughout Islamic architecture and was used as a signifier of the muslims conquering the great Kisra. 
 
 {% include images/juxtapose.html
-image1="images/ota-gate-demo-brown.png"
-image2="images/ota-gate-demo-gray.png"
-caption="Two shades of color on the Ota Gate."
+image1="images/taq-i-kasra.jpg"
+image2="images/mshatta-midain.jpg"
+caption="The Iwan at Taq-i Kisra vs iwans at Qasr al-Mshatta."
 %}
 
 Iwans are rooms with three walls and a vaulted ceiling. The Sasanians got the idea of iwans from the Parthians of Iran but they evolved the concept into what the Umayyads worked off of. 
@@ -45,14 +45,14 @@ From the Byzantines the Umayyads got arches, mosaics, figurative imagery, and na
 
 
 
-## Your First Scrollybox
+## Umayyad Uniqueness
 The novel additions made by the Umayyads is the inclusion of jewels to otherwise naturalistic depictions, the minbar and mihrab, and kufi. It is through the combination and additions that the Umayyads create a style of architecture that both continues the legacy of old powers and produces a new thing altogether. Umayyad architecture is a mirror of the way that their governmental styles took the old structures and made changes that benefited their goals as an Islamic conquering force. Their repurposing of not just styles but entire buildings, as is seen with the Great Mosque of Damascus, shows that the Caliphate was a product of their time and location. They did not exist in a vacuum that started when Prophet Muhammad received the revelations. The early Caliphs themselves were born as polytheists, the belief structure that came with that forged them into who they were. The same can be said for the people and lands that they conquered. They held within them the inescapable history of the context they grew up in, being under Umayyad rule did little to change that. It is important to keep in mind that it was not the Caliphs who were building these palaces and mosques, they were constructed by the people that were in the lands before them. Their knowledge and culture is forever embedded into the monuments, as are the ideals of the commissioners. 
 
 {% include scrollybox/bg.html
-  image-path="images/ota-gate-khiva2.jpg"
+  image-path="images/khirbet-tree-of-life-mosaic-copy.jpeg"
   above-box-space = "100vh"
   below-box-space = "80vh"
-  box-content=' A sculpture in Khiva offers a romaticized view of the Silk Road trade network.'
+  box-content=' Byzantine traditions shown in the artwork at Khirbat al-Mafjar.'
 %}
 
 
