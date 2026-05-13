@@ -22,7 +22,7 @@ Entrance rooms are incredibly important aspects of a given building. They are a 
 {% include images/figure.html
 class="right"
 width="48%"
-caption="This form of artwork showcases beauty standards. The faces aren't intact but the clothes are. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)"
+caption="This form of artwork showcases beauty standards. The faces aren't intact but the clothes are. [Source](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Amra5.jpg/250px-Amra5.jpg)"
 image-path="images/five-kings.jpg"
 %}
 

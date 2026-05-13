@@ -23,7 +23,7 @@ The stucco work present is also an obvious continuation of art trends. In the br
 {% include images/figure.html
 class="right"
 width="48%"
-caption="The faces protrude. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)"
+caption="The faces protrude. [Source](https://www.tandfonline.com/cms/asset/46585468-5f63-4e5c-9663-90215ad93232/calm_a_1635347_f0003_oc.jpg)"
 image-path="images/khirbat-faces.jpg"
 %}
 
