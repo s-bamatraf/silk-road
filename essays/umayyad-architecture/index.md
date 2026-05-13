@@ -41,12 +41,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh v
 
 
 ## Juxtapose: Before/After Comparisons
-Below you'll see a **juxtapose component**—an interactive slider that lets readers compare two images by dragging a handle left and right. Perfect for before/after, then/now, or any two related images.
 
 {% include images/juxtapose.html
 image1="images/taq-i-kasra.jpg"
 image2="images/mshatta-midain.jpg"
-caption="Evidence of Sassanian influences at Qasr Mshatta."
+caption="Evidence of Taq-i Kisra's influences at Qasr Mshatta."
 %}
 
 The novel additions made by the Umayyads is the inclusion of jewels to otherwise naturalistic depictions, the minbar and mihrab, and kufi. It is through the combination and additions that the Umayyads create a style of architecture that both continues the legacy of old powers and produces a new thing altogether. Umayyad architecture is a mirror of the way that their governmental styles took the old structures and made changes that benefited their goals as an Islamic conquering force. Their repurposing of not just styles but entire buildings, as is seen with the Great Mosque of Damascus, shows that the Caliphate was a product of their time and location. They did not exist in a vacuum that started when Prophet Muhammad received the revelations. The early Caliphs themselves were born as polytheists, the belief structure that came with that forged them into who they were. The same can be said for the people and lands that they conquered. They held within them the inescapable history of the context they grew up in, being under Umayyad rule did little to change that. It is important to keep in mind that it was not the Caliphs who were building these palaces and mosques, they were constructed by the people that were in the lands before them. Their knowledge and culture is forever embedded into the monuments, as are the ideals of the commissioners. 
@@ -54,7 +53,7 @@ The novel additions made by the Umayyads is the inclusion of jewels to otherwise
 
 
 ## Standard Scrollybox (From Sapling)
-The next section uses a basic scrollybox like you saw in Sapling. Keep scrolling to see text overlay a full-screen background image.
+
 
 {% include scrollybox/bg.html
   height="220vh"
@@ -64,19 +63,6 @@ The next section uses a basic scrollybox like you saw in Sapling. Keep scrolling
   box-content=' A sculpture in Khiva offers a romaticized view of the Silk Road trade network.'
 %}
 
-
-## Pull Quotes for Emphasis
-{% include typography/aside.html class="left" text="
-Pull quotes still work in Forest essays. Mix them with scrollyboxes depending on what your narrative needs at any given moment." %}
-
-Notice how you can shift between immersive full-screen scrollyboxes and traditional pull quotes within the same essay. **Choose the right tool for the moment:**
-
-- Scrollyboxes for dramatic visual immersion
-- Pull quotes for emphasis within ongoing text
-- Standard images for supporting illustrations
-- Juxtapose for interactive comparisons
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
 
 
 ## Background Switching: The Advanced Feature
@@ -159,41 +145,7 @@ images = images
 Carousels work well after intense scrollybox sequences. They're interactive but less immersive than full-screen backgrounds, giving readers some control while maintaining visual interest.
 
 
-## Block Quotes for Primary Sources
-Architectural features of the Ota Darvaza reflect much of the culture of the Silk Road. Random Imaginary Person, a visitor to Khiva, spoke poetically about their experience of the architecture of the gate.
 
-> As I entered the Ota Darvaza, the splendor of the gateway overwhelmed me. [Source](https://en.wikipedia.org/wiki/Ota_Darvaza)
-
-Block quotes continue to work for extended quotations from primary sources. They're visually distinct from scrollybox overlays and provide a rhythm change in your essay.
-
-## What You've Learned in Forest
-If you can create a Forest essay, you have mastered:
-
-- **All Seedling components** - Images, headings, footnotes, pull quotes, block quotes
-- **All Sapling components** - Basic scrollyboxes, carousels, pacing control
-- **Advanced Forest features**:
-  - Juxtapose interactive comparisons
-  - Background image switching on scroll
-  - Multi-section scrollybox sequences
-  - Complex cinematic narratives
-
-**This is the full Xanthan toolkit.** Not every essay needs every feature, but you now have complete control over how to tell visual stories on the web.
-
-**When to use Forest vs. Sapling vs. Seedling?**
-- **Seedling** for straightforward digital essays with images and structure
-- **Sapling** when you want immersive scrollyboxes and carousels
-- **Forest** when your narrative demands cinematic sequences and background switching
-
-**Pro tip:** Start simple and add complexity only where it serves your argument. The best essays use advanced features sparingly, for maximum impact.
-
-**What makes Forest the most advanced template?**
-- Juxtapose interactive image comparisons (before/after, then/now)
-- Background image switching on scroll for dramatic visual transitions
-- Multi-section scrollyboxes with narrative sequences
-- Full cinematic storytelling capabilities
-- Everything from Seedling and Sapling, plus these advanced features
-
-**Feeling overwhelmed?** Start with [Seedling](../camels-example-theme/) or [Sapling](../monasteries-example-theme/) and work your way up. You can always add complexity later once you're comfortable with the basics. Most excellent digital essays use Seedling or Sapling—Forest is for when you truly need cinematic power.
 
 ---
 
