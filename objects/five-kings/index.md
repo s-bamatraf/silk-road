@@ -1,21 +1,21 @@
 ---
-author: student name
+author: safa bamatraf
 title: "Qasr ‘Amra and the Painting of the Six Kings"
 layout: base
 header-image: images/five-kings.jpg
 thumbnail: images/five-kings.jpg
 summary: Depicting the Umayyad Caliph hosting past famous rulers from the lands that were now under the Caliph's rule was a way to present the power of the Umayyads.
-geo: [47.199, 102.834]
-placename: Karakorum
+geo: [31.802, 36.587]
+placename: Qasr 'Amra
 tags:
   - object
 ---
 
 # Qasr ‘Amra and the Painting of the Six Kings
 
-Qasr 'Amra is located in Jordan and is one of the "desert palaces" that the Umayyads built. This specific qasr is was built for Walid II. It is a continuation of Roman building traditions. This is seen in the artwork style which is similar to bathhouse artwork. 
+Entrance rooms are incredibly important aspects of a given building. They are a visitor’s first introduction into a new space and as such, set up a precedent in an individual’s mind. For a ruler’s palace, it is that much more important, as the space is a representation not just of the legacy of the ruling power, but also the ruler’s place in that legacy.
 
-The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
+
 
 
 ## Your First Section Heading
@@ -26,45 +26,24 @@ caption="This is a right-aligned image that takes up roughly half the page width
 image-path="images/five-kings.jpg"
 %}
 
-This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
+For Walid II, Caliph of the Umayyads from 743-744 C.E., he decided to make the Caliphate’s power known. On the audience room wall, there lies a polychrome painting on plaster of six individuals. Each of the individuals have their right hand outstretched in a welcoming gesture, presenting a message of respectful invitation to the onlookers. These people are each in different styles of dress, though their colors are complementary to one another. In the present day, the painting is incredibly damaged leaving no face intact and two of them completely gone.
 
-Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^randomthing]
-
-[^randomthing]:Put your source information here.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
-
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan.[^anotherrandomthing]
-
-[^anotherrandomthing]:Put your next footnote source information here.
+Despite the difficulties created by the weathering of the artwork, it has been decided who the people are. 
+The painting shows Walid II hosting previous famous rulers from the lands that were contemporarily under Umayyad rule. The painting was meant to represent the power of the Umayyad Caliphate and Walid II in conjunction with that. By placing this painting in the first room that everyone enters the palace through, it further solidifies this message of power in all those who see it. This is also the case for the builders of the qasr. As the builders and artists were likely previous Byzantine subjects, creating these would have also implanted the intended message in them as well. 
 
 
-## Section Headings Create Visual Breaks
-Each section heading (marked with `##` in Markdown) creates a clear visual break in your essay. This helps readers navigate long-form content and gives you natural places to shift topics or introduce new ideas.
-
-**Why this matters:** Breaking essays into clear sections makes writing more manageable. Write one section at a time, preview it, then move to the next. No need to tackle the entire essay at once.
-
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis.
+Qasr ‘Amra contains representation of the craftsmen and builders whose hard labor went into the construction of the palace. In the basilica hall of the qasr, a series of thirty-two depictions of different types of craftsmen are present. Their inclusion was likely Walid II self-aggrandizing and positing himself as a great developer.
 
 
-## Pull Quotes Add Emphasis
-Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis.
+The Umayyads taking Byzantine artwork and evolving it to fit their own style and beliefs is very similar to the religious aspects of both. To the muslims, Islam is believed to be a rightful evolution of the teachings of Christianity and Judaism. They have the same God, most of the same prophets, and most of the same stories and teachings, but adaptations are introduced. Since every religion is warped by the culture of their followers, then Islam can also be seen as paralleling the early ruling structure and the architecture of the Umayyads. Christianity and its influences can’t be stripped from the Byzantine Empire and due to the Umayyads not forcing christians to convert, their culture continued to live on. The latter concept can be applied to the Sasanian Empire with Zoroastrianism as well. 
 
-{% include typography/aside.html class="right" text="
-This is a pull quote—a design element that highlights important text or quotations. It appears as a semi-transparent box to the right of your main text. Use these sparingly for maximum impact." %}
+Furthermore, this concept of tolerance can be seen as another reason for the painting of the six kings. Not only is it pushing a message of power, but also one of welcoming and acceptance. Umayyad power would have been circumvented at every turn if they didn’t take an approach of gradual transition. Had they forced everyone to convert to their new religion, outright, their new citizens would have been impossible to control. Therefore, the Caliphate needed to be tolerant with their new citizenry. This painting showcases the two-folded effort. 
 
-The pull quote you just saw is created with a simple `include` command in Markdown. It's one of many reusable components in Xanthan. You can put important quotes, key statistics, or memorable phrases in these boxes to create visual interest and emphasize crucial points.
-
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
 
 ## Images Can Be Different Widths
 {% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)" image-path="images/han-coin-two-sides-violet.png" %}
 
-The image to the right is **wider than the previous one** (60% instead of 48%). You control this with the `width` parameter in the image code. Want a small image? Use 30%. Want something that dominates? Try 70%.
 
-Images can also be left-aligned (use `class="left"`) or centered full-width (we'll show that in more advanced essays). For Seedling level, right-aligned images at 48-60% width work well for most purposes.
-
-Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque.
 
 ---
 
