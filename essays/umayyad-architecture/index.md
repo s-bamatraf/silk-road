@@ -7,7 +7,7 @@ thumbnail: images/mshatta-arches.webp
 summary: Umayyad architecture is a relfection of their early ruling methods.
 ---
 
-# Umayyad Architecture: and Evolution of Past Traditions
+# Umayyad Architecture: an Evolution of Past Traditions
 
 Umayyad architecture is very heavily influenced by the preexisting traditions of the areas they expanded into. The two main influences come from the Byzantine and Sasanian empires. Small changes, however, are introduced and this is what serves as a reflection of their early ruling practices.
 
