@@ -89,7 +89,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec ante ligu
 ### BACKGROUND IMAGE SWITCHES HERE
 
 {% include scrollybox/bg-switch.html
-  image-path="images/mafjar-floor.png"
+  image-path="images/mafjar-floor.jpg"
   switch-id="switch1"
   bg-id="bg1"
 %}
