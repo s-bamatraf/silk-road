@@ -73,7 +73,7 @@ This is what makes Forest essays truly cinematic. You're about to scroll through
 <!-- this is an unclosed div that needs to be closed with bg-multi-long-close-->
 {% include scrollybox/bg-multi-long.html
   bg-id="bg1"
-  image-path="images/ota-gate-khiva2.jpg"
+  image-path="images/byzantine-floor.jpg"
   above-box-space="0"
   font-size = "150%"
   line-height = "100%"
@@ -89,7 +89,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec ante ligu
 ### BACKGROUND IMAGE SWITCHES HERE
 
 {% include scrollybox/bg-switch.html
-  image-path="images/ota-gate-demo-brown.png"
+  image-path="images/mafjar-floor.png"
   switch-id="switch1"
   bg-id="bg1"
 %}
