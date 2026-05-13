@@ -90,6 +90,9 @@ The two works are close to each other geographically and in resembalance but sha
 
 Spend time looking at the differences and similarities. 
 
+#### The End of This Sequence
+Watch as the text box scrolls out of view, followed by the background image fading away. Then normal scrolling resumes.
+
 {% include scrollybox/bg-multi-long-close.html %}
 
 
