@@ -3,7 +3,6 @@ author: safa bamatraf
 title: "Inspirations of Umayyad Architecture"
 layout: base
 header-image: images/mshatta-arches.webp
-layout: center 28%
 thumbnail: images/mshatta-arches.webp
 summary: Umayyad architecture is a relfection of their early ruling methods.
 ---
