@@ -22,7 +22,7 @@ Qasr Mshatta is located in Amman, Jordan and the palace itself perfectly encapsu
 {% include images/figure.html
 class="right"
 width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)"
+caption="Wall carving. [Source](https://www.smb.museum/fileadmin/_processed_/3/0/csm_Mschatta-Fassade-Detail-1_xl_3a0e9804bf.jpg)"
 image-path="images/mshatta-facade.jpg"
 %}
 
@@ -32,12 +32,15 @@ The facade exemplifies the Byzantine naturalistic art tradition as seen with the
 The griffin and the lion are drinking from a fountain and both of them have vines wrapping around their middle, almost as if securing them to the wallside. Continuing their interactions with the vines, both creatures have their inner-front paw resting on the end of the vine that wraps around their middles. While both the Byzantines and the Sasanians had griffins in their stories and artwork, the facial features differed. Byzantine griffins have beaks giving them a more bird-like appearance whereas Sasanian griffins have the facial structure of a cat-like creature. The facade has, unfortunately, faced some weathering, but the mouth of the griffin is distinctly beak-like. The feline animals are translated across from each other and drinking from a fountain. The peacock, which is in the top left corner, has most of its body to the side while its head is facing straight out towards the onlookers. 
 
 ## Analysis
-The carving of the facade is incredibly intricate. As the art at hand was done in the Byzantine style and in previously Byzantine controlled lands, it stands to reason that the creatures were meant to represent the same messages. Peacocks, for example, are believed to represent immortality and eternal life (Maguire 20). With this perspective it stands to reason that a Caliph would wish for these attributes to be associated with him. Both the lion and griffin being at the entrance of the palace, in Byzantine tradition, would have been considered protectors. It is likely that this was the same effect that the Umayyads were going for as well. At the very least, it is a continuation of their tradition even if it was just done for aesthetic purposes (Maguire 33). 
+The carving of the facade is incredibly intricate. As the art at hand was done in the Byzantine style and in previously Byzantine controlled lands, it stands to reason that the creatures were meant to represent the same messages. Peacocks, for example, are believed to represent immortality and eternal life.[^Icon1] With this perspective it stands to reason that a Caliph would wish for these attributes to be associated with him. Both the lion and griffin being at the entrance of the palace, in Byzantine tradition, would have been considered protectors.[^Icon2] It is likely that this was the same effect that the Umayyads were going for as well. At the very least, it is a continuation of their tradition even if it was just done for aesthetic purposes. 
+
+[^Icon1]: Henry Maguire, "Profane Icons: The Significance of Animal Violence in Byzantine Art," *RES: Anthropology and Aesthetics,* no. 38 (2000): 20, http://www.jstor.org/stable/20167505. 
+[^Icon2]: Maguire, "Profane Icons," 33.
 
 
 ---
 
 ## Bibliography
 
-- Lastname, Firstname. “Title of the Article.” *Title of the Journal* 9, no. 9 (1999): 999–999.
+- Maguire, Henry. “Profane Icons: The Significance of Animal Violence in Byzantine Art.” *RES: Anthropology and Aesthetics,* no. 38 (2000): 18–33.
 - Lastname, Firstname. *Title of the Book*. Publisher Press, 1999.
