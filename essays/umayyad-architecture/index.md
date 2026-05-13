@@ -65,49 +65,6 @@ The novel additions made by the Umayyads is the inclusion of jewels to otherwise
 
 
 
-## Continuing Evidence for Similarities
-The mosaic work is incredibly similar, but when looking carefully, differences will make themselves known.
-
-The first image is a Byzantine floor from a church in West Bank, Palestine. The second, is the floor of Khirbat al-Mafjar.
-
-<!-- this is an unclosed div that needs to be closed with bg-multi-long-close-->
-{% include scrollybox/bg-multi-long.html
-  bg-id="bg1"
-  image-path="images/byzantine-floor.jpg"
-  above-box-space="0"
-  font-size = "150%"
-  line-height = "100%"
-%}
-
-The two works are close to each other geographically and in resembalance but shapes and angles have shifted.
-
-
-### BACKGROUND IMAGE SWITCHES HERE
-
-{% include scrollybox/bg-switch.html
-  image-path="images/mafjar-floor.jpg"
-  switch-id="switch1"
-  bg-id="bg1"
-%}
-
-
-### The New Background
-Did you notice the background change? The image switched to the brown tint. Your text continued scrolling, but the visual context shifted.
-
-**Why use background switching?**
-- Narrative sequences (first this happened, then that)
-- Spatial movement (from room to room, place to place)
-- Evidence building (showing multiple sources for one argument)
-- Visual comparisons while maintaining narrative flow
-
-Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc.
-
-
-#### The End of This Sequence
-Watch as the text box scrolls out of view, followed by the background image fading away. Then normal scrolling resumes.
-
-{% include scrollybox/bg-multi-long-close.html %}
-
 
 
 
