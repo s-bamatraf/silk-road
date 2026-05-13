@@ -46,9 +46,24 @@ Here's what makes Sapling different: keep scrolling and watch what happens next.
 %}
 
 
-## What Just Happened?
-That was a **scrollybox**—text that appears in a box over a full-screen background image. As you scrolled, the background image stayed fixed while the text box scrolled into view, stayed visible, then scrolled away.
+## Juxtapose: Before/After Comparisons
+Below you'll see a **juxtapose component**—an interactive slider that lets readers compare two images by dragging a handle left and right. Perfect for before/after, then/now, or any two related images.
 
+{% include images/juxtapose.html
+image1="images/ota-gate-demo-brown.png"
+image2="images/ota-gate-demo-gray.png"
+caption="Two shades of color on the Ota Gate."
+%}
+
+**Why use juxtapose?** When you want readers to actively explore the relationship between two images. The interactive slider invites engagement—readers control what they see and how much of each image.
+
+**Use cases:**
+- Historical photos showing change over time
+- Different views of the same location
+- Comparing historical documents or maps
+- Revealing differences that might be subtle
+
+Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum.
 
 ---
 
