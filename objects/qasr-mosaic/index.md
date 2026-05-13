@@ -1,24 +1,22 @@
 ---
-author: student name
+author: safa bamatraf 34.37490853162961, 37.60781825131768
 title: "Qasr al-Hayr al-Gharbi Mosaic"
 layout: base
 header-image: images/qasr-mosaic.jpg
 thumbnail: images/qasr-mosaic.jpg
 summary: The mosaic shows a combination of Byzantine and Sasanian styles. The moasaic also represents characteristic that the Umayyad Caliphs valued. 
-geo: [47.199, 102.834]
-placename: Karakorum
+geo: [34.375, 37.608]
+placename: Qasr al-Hayr al-Gharbi
 tags:
   - object
 ---
 
 # Qasr al-Hary al-Gharbi Mosaic
 
-This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
-
-The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
+Any time there are state-funded depictions of people, like the ones present at Qasr al-Hayr al-Gharbi, it shows what the beauty standards of the time and place were. The specific section of artwork at hand shows three different people exemplifying various different skills.
 
 
-## Your First Section Heading
+## Description
 {% include images/figure.html
 class="right"
 width="48%"
@@ -26,45 +24,15 @@ caption="This is a right-aligned image that takes up roughly half the page width
 image-path="images/qasr-mosaic.jpg"
 %}
 
-This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
+In the top left, a man is playing the oud, his head is facing to the center, and his eyes are cast in a downward diagonal. He is standing beneath an arch and is in front of what appears to be a vase. The paint on the entire work has faded a great deal, but colors like black, red, and blue are still somewhat visible. The oud player’s left foot is still visible and his shoes are red. His clothing is very loose and draping down his body, it appears that his outer cloak is red and that on top of his inner clothes, he has a belt. He does have an accessory of some kind atop his head.
 
-Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^randomthing]
+Next to the oud player, separated by the beam of the arch, is a flute player. The wind instrument player is dressed and positioned similarly to his counterpart. The differences are that he is slightly shorter and his clothes don’t drape as much. His clothes seem to be red as well but there is less fabric giving him a more form fitting look. He is also wearing an accessory on his head. To the flutist’s right is a plant with four multicolored flowers. The plant is tall and winding as it almost reached below his shoulders. 
 
-[^randomthing]:Put your source information here.
+Underneath the two musicians, a hunting scene unfolds. A man is on horseback with a bow and arrow chasing after two goats. There is a possibility of there being more prey that were erased due to weathering. He is dressed in the least amount of fabric out of the three displayed. No draping occurs and the outfit seems to be purely utilitarian, except for his hat which has an extra attachment which helps to express how fast the horse is moving. Additionally, he is wearing pants which are showcased due to his skirt riding up. He, like the other two, has a belt around his waist; he also has a full quiver attached by another belt. In his hand he has an arrow notched and at full draw. The rider is using stirrups; a Mongol invention that would have made it to Syria because of the Silk Road. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
+## Analysis
+This artwork, again, is an instance of self-aggrandizing found in Umayyad palaces. The extra fabric is a flaunt of wealth, the instruments are to exemplify their skills, and the archery to show their military prowess. All three men are depicted with asian characteristics, this is likely due to slave trade. In Islam, it is forbidden to enslave fellow muslims, this usually meant that Islamic powers would go to areas not under their control. Common regions for the capturing of slaves included Central Asia, Europe, and Africa. The Mamluks of Egypt are a notable example of this practice. Like the Mamluks, the Umayyads revered the military skills of those captured from Central Asia so much that their features became the beauty standard. The mosaic from Qasr al-Hayr al-Gharbi is an example of this taking place. 
 
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan.[^anotherrandomthing]
-
-[^anotherrandomthing]:Put your next footnote source information here.
-
-
-## Section Headings Create Visual Breaks
-Each section heading (marked with `##` in Markdown) creates a clear visual break in your essay. This helps readers navigate long-form content and gives you natural places to shift topics or introduce new ideas.
-
-**Why this matters:** Breaking essays into clear sections makes writing more manageable. Write one section at a time, preview it, then move to the next. No need to tackle the entire essay at once.
-
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis.
-
-
-## Pull Quotes Add Emphasis
-Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis.
-
-{% include typography/aside.html class="right" text="
-This is a pull quote—a design element that highlights important text or quotations. It appears as a semi-transparent box to the right of your main text. Use these sparingly for maximum impact." %}
-
-The pull quote you just saw is created with a simple `include` command in Markdown. It's one of many reusable components in Xanthan. You can put important quotes, key statistics, or memorable phrases in these boxes to create visual interest and emphasize crucial points.
-
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
-
-## Images Can Be Different Widths
-{% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)" image-path="images/han-coin-two-sides-violet.png" %}
-
-The image to the right is **wider than the previous one** (60% instead of 48%). You control this with the `width` parameter in the image code. Want a small image? Use 30%. Want something that dominates? Try 70%.
-
-Images can also be left-aligned (use `class="left"`) or centered full-width (we'll show that in more advanced essays). For Seedling level, right-aligned images at 48-60% width work well for most purposes.
-
-Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque.
 
 ---
 
