@@ -21,12 +21,12 @@ Largely, when the Umayyads expanded into a new area they kept the ruling structu
 
 
 
-## All the Basics Still Work
+## Architectural Relevance
 {% include images/figure.html
 class="right"
 width="48%"
-caption="Right-aligned images work exactly like Seedling and Sapling. Every skill you've learned carries forward. [Source](https://commons.wikimedia.org/wiki/File:Khiva_town_of_The_Silk_Road_(%D0%9A%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D0%BD,_%D0%98%D1%87%D0%B0%D0%BD_%D0%9A%D0%B0%D0%BB%D0%B0,_%D0%A5%D0%B8%D0%B2%D0%B0).jpg)"
-image-path="images/ota-gate-khiva2.jpg"
+caption="Other examples of Umayyad artwork from the *Great Mosque of Damascus*. [Source](https://smarthistory.org/wp-content/uploads/2019/05/mosaic2.jpg")
+image-path="images/great-mosque.jpg"
 %}
 
 The architectural manifestations of this ruling approach took a number of forms and even showcased the melding of cultures that was taking place. With the Umayyad Caliphate expanding and absorbing, it makes sense that an amalgamation of the cultures takes place. This is why in regions that the Sasanians never touched, their signifying marks are found in Umayyad architecture. One of the most prevalent manifestations of Sasanian influence is the stepped crenelations. These were placed along the tops of walls and became a staple in Islamic architecture even after the Umayyad Caliphate had come to an end. Kisra, or Khosrow I, was another major influence provided by the Sasanians. Prophet Mohammad was cited as praising the king for being a just ruler and his palace, Taq-i Kisra, has its echoes in Umayyad buildings. From Taq-i Kisra Umayyads got squinches, Khosrow I’s crown, arabesques, and iwans. A squinch is a dome placed upon a square or octagonal base which provides support. The crown is represented all throughout Islamic architecture and was used as a signifier of the muslims conquering the great Kisra. Iwans are rooms with three walls and a vaulted ceiling. The Sasanians got the idea of iwans from the Parthians of Iran but they evolved the concept into what the Umayyads worked off of. 
@@ -40,7 +40,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh v
 [^note2]: You can use footnotes throughout Forest essays for citations and elaboration.
 
 
-## Juxtapose: Before/After Comparisons
+## Evidence of continuities
 
 {% include images/juxtapose.html
 image1="images/taq-i-kasra.jpg"
@@ -60,15 +60,15 @@ The novel additions made by the Umayyads is the inclusion of jewels to otherwise
   position="top"
   image-path="images/khirbet-tree-of-life-mosaic-copy.jpeg"
   above-box-space = "100vh"
-  box-content=' A sculpture in Khiva offers a romaticized view of the Silk Road trade network.'
+  box-content=' The *Tree of Life* found in Khirbat al-Mafjar.'
 %}
 
 
 
-## Background Switching: The Advanced Feature
-This is what makes Forest essays truly cinematic. You're about to scroll through a section where the background image **switches** as you read, creating a visual sequence that matches your narrative.
+## Continuing Evidence for Similarities
+The mosaic work is incredibly similar, but when looking carefully, differences will make themselves known.
 
-**Watch carefully:** The background will start with one image, then switch to another partway through. The text box stays visible throughout, but the background changes to match what you're reading about.
+The first image is a Byzantine floor from a church in West Bank, Palestine. The second, is the floor of Khirbat al-Mafjar.
 
 <!-- this is an unclosed div that needs to be closed with bg-multi-long-close-->
 {% include scrollybox/bg-multi-long.html
@@ -79,14 +79,8 @@ This is what makes Forest essays truly cinematic. You're about to scroll through
   line-height = "100%"
 %}
 
-Now we have a text box scrolling up over the first image. At various points (clearly labeled below) **the background image will switch** while the text continues scrolling.
+The two works are close to each other geographically and in resembalance but shapes and angles have shifted.
 
-This is perfect for visual sequences: walking through a building room by room, showing historical change over time, or revealing evidence step by step.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec ante ligula. Nulla fringilla ligula sit amet nisl consectetur ultricies. Mauris ac tellus eu ante lobortis rhoncus non eu nisl.
-
-
-### BACKGROUND IMAGE SWITCHES HERE
 
 {% include scrollybox/bg-switch.html
   image-path="images/mafjar-floor.jpg"
@@ -94,21 +88,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec ante ligu
   bg-id="bg1"
 %}
 
-
-### The New Background
-Did you notice the background change? The image switched to the brown tint. Your text continued scrolling, but the visual context shifted.
-
-**Why use background switching?**
-- Narrative sequences (first this happened, then that)
-- Spatial movement (from room to room, place to place)
-- Evidence building (showing multiple sources for one argument)
-- Visual comparisons while maintaining narrative flow
-
-Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc.
-
-
-#### The End of This Sequence
-Watch as the text box scrolls out of view, followed by the background image fading away. Then normal scrolling resumes.
+Spend time looking at the differences and similarities. 
 
 {% include scrollybox/bg-multi-long-close.html %}
 
