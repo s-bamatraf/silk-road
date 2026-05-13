@@ -32,7 +32,7 @@ image-path="images/great-mosque.jpg"
 
 The architectural manifestations of this ruling approach took a number of forms and even showcased the melding of cultures that was taking place. With the Umayyad Caliphate expanding and absorbing, it makes sense that an amalgamation of the cultures takes place. This is why in regions that the Sasanians never touched, their signifying marks are found in Umayyad architecture. One of the most prevalent manifestations of Sasanian influence is the stepped crenelations. These were placed along the tops of walls and became a staple in Islamic architecture even after the Umayyad Caliphate had come to an end.
 
-An example of the artstyle from the Byzantine Empire can be seen with the design found on a wrestler's weight. The lion present is incredibly similar to the lion depiction found at Qasr al-Mshatta.[link text](https://amaranth.unm.edu/silk-road//objects/wrestlers-weight/) 
+An example of the artstyle from the Byzantine Empire can be seen with the design found on a [wrestler's weight](https://amaranth.unm.edu/silk-road//objects/wrestlers-weight/). The lion present is incredibly similar to the lion depiction found at Qasr al-Mshatta. 
 
 
 
