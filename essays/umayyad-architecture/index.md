@@ -1,10 +1,11 @@
 ---
-author: student name
-title: "Monasteries on the Silk Road Trade Network"
+author: safa bamatraf
+title: "Inspirations of Umayyad Architecture"
 layout: base
-header-image: images/ota-gate-khiva2.jpg
-thumbnail: images/ota-gate-demo-green.png
-summary: Monasteries were key to the functioning of the Silk Road Trade Network.
+header-image: images/mshatta-arches.webp
+layout: center 28%
+thumbnail: images/mshatta-arches.webp
+summary: Umayyad architecture is a relfection of their early ruling methods.
 ---
 
 # Monasteries: The More Sophisticated Type of Webpage
